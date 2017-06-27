@@ -1,0 +1,6 @@
+[ 2017-06-12T11:19:20+08:00 ] ERR: (ThinkException) Unknown database 'thinkphp3'
+[ 2017-06-12T15:18:08+08:00 ] ERR: (ThinkException) 非法操作:U('Teacher
+[ 2017-06-12T15:18:32+08:00 ] ERR: (ThinkException) 非法操作:U('Teacher
+[ 2017-06-12T15:18:41+08:00 ] ERR: (ThinkException) 非法操作::U('Teacher
+[ 2017-06-12T15:50:26+08:00 ] ERR: (ThinkException) 非法操作:$username
+[ 2017-06-12T15:51:41+08:00 ] ERR: (ThinkException) 非法操作:$username

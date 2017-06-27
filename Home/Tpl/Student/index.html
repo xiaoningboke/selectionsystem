@@ -1,0 +1,67 @@
+<include file="Public:header" />
+<style type="text/css">
+
+
+#main{
+    width: 350px;
+    margin:0 auto;
+    margin-top: 100px;
+}
+#top{
+    position: absolute;
+    top:20px;
+    right: 220px;
+  width: 200px;
+}
+.atop{
+    margin-right: 20px;
+}
+</style>
+</head>
+<body>
+<div id="top">
+<a  class="atop" href="quit">退出登录</a>
+<a  class="atop" href="achange">更改密码</a>
+</div>
+
+<div id="main">
+
+<h3  style="margin-left: 70px;margin-bottom: 20px;">学生选课管理</h3>
+<p>请选择:</p>
+ <form class="form-inline" action="__URL__/xk" method="post">
+    <select class="form-control" id="sf" name="distinguish">
+         <volist name="name" id="data">
+                               <option value="{$data.Cno}">课程号：{$data.Cno}----课程名：{$data.Cname}----学分：{$data.Ccredit}</option>
+        </volist>
+    </select>
+    <br/><br/>
+    <button type="submit" class="btn btn-default"   style="margin-left: 100px;">提交</button>
+    <br/><br/>
+</form>
+<p>选课详情:</p>
+<table class="table-bordered table-hover table " width="100%">
+<tr>
+<td>课程号(点击查看详细信息)</td>
+<td>成绩</td>
+<td>操作</td>
+</tr>
+
+ <volist name="datas" id="data">
+ <php>
+    $a=$data[Cno];
+    $b=$data[Id];
+</php>
+    <tr>
+            <td>
+                <a href="{:U('Portal/Student/show',array('id'=>$a))}"> {$data.Cno}</a>
+            </td>
+            <td>{$data.grade}</td>
+            <td> <a href="{:U('Portal/Student/delete',array('id'=>$b))}">退选</a></td>
+    </tr>
+</volist>
+
+</table>
+
+</div>
+</body>
+</html>

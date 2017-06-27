@@ -1,0 +1,8 @@
+C:\Users\sunxiaoning\Desktop\shixun\one\demo\demo\obj\x86\Debug\demo.Main.resources
+C:\Users\sunxiaoning\Desktop\shixun\one\demo\demo\obj\x86\Debug\demo.Properties.Resources.resources
+C:\Users\sunxiaoning\Desktop\shixun\one\demo\demo\obj\x86\Debug\demo.csproj.GenerateResource.Cache
+C:\Users\sunxiaoning\Desktop\shixun\one\demo\demo\bin\Debug\demo.exe
+C:\Users\sunxiaoning\Desktop\shixun\one\demo\demo\bin\Debug\demo.pdb
+C:\Users\sunxiaoning\Desktop\shixun\one\demo\demo\obj\x86\Debug\demo.exe
+C:\Users\sunxiaoning\Desktop\shixun\one\demo\demo\obj\x86\Debug\demo.pdb
+C:\Users\sunxiaoning\Desktop\shixun\one\demo\demo\obj\x86\Debug\demo.csprojResolveAssemblyReference.cache

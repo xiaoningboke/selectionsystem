@@ -1,0 +1,8 @@
+C:\Users\sunxiaoning\Desktop\shixun\one\Student\Student\bin\Debug\Student.exe.config
+C:\Users\sunxiaoning\Desktop\shixun\one\Student\Student\bin\Debug\Student.exe
+C:\Users\sunxiaoning\Desktop\shixun\one\Student\Student\bin\Debug\Student.pdb
+C:\Users\sunxiaoning\Desktop\shixun\one\Student\Student\obj\x86\Debug\Student.Form1.resources
+C:\Users\sunxiaoning\Desktop\shixun\one\Student\Student\obj\x86\Debug\Student.Properties.Resources.resources
+C:\Users\sunxiaoning\Desktop\shixun\one\Student\Student\obj\x86\Debug\Student.csproj.GenerateResource.Cache
+C:\Users\sunxiaoning\Desktop\shixun\one\Student\Student\obj\x86\Debug\Student.exe
+C:\Users\sunxiaoning\Desktop\shixun\one\Student\Student\obj\x86\Debug\Student.pdb
